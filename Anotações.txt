@@ -1,0 +1,12 @@
+Dependências NLW - 
+Node.Js
+Yarn
+VsCode
+
+
+inicializar projeto:
+Create React App
+
+npx create-react-app podcastr
+
+porém quando se utiliza Next.Js não se utiliza o create react app
